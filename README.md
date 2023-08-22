@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyle777&show_icons=true&theme=tokyonight)
-#### Example
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keyle777&repo=mysshbook)](https://github.com/Keyle777/mysshbook)
-
+#### 整合Python项目
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keyle777&repo=pycode)](https://github.com/Keyle777/pycode)
+#### 主要使用语言分布
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyle777)](https://github.com/Keyle777/mysshbook)
