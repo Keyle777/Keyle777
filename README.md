@@ -13,6 +13,7 @@
 
 ##### 掉头发也是真的，以前学生时代开玩笑的说学习学的头秃了，没想到竟成了真！哈哈哈苍天饶过谁!
 
+##### 诸君，注意身体，身体是革命的本钱。拿命赚的钱，到时候都要还给医院。
 
 <!--
 **Keyle777/Keyle777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
